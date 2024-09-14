@@ -3,3 +3,6 @@ cloud Computing- Its a technology or system that provides storage and flexible e
                   1]Infrastructure as service
                   2]Platform as a service
                   3]Software as a service
+Pass= stands for platform as service
+it provides plaatforms to users to work
+eg] google engine
