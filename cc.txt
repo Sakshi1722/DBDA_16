@@ -1,0 +1,5 @@
+cloud Computing- Its a technology or system that provides storage and flexible environment for users.
+                  It provides access and security to the cloud users.It has three main parts 
+                  1]Infrastructure as service
+                  2]Platform as a service
+                  3]Software as a service
